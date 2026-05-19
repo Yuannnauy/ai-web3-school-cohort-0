@@ -21,17 +21,8 @@ This repo is **public**. Do NOT commit:
 
 | Directory | Purpose |
 |-----------|---------|
-| `daily/` | Daily learning notes & check-in drafts |
-| `tasks/` | Task breakdowns & progress tracking |
-| `experiments/` | Hands-on code, demos, prototypes |
-| `handbook-feedback/` | Handbook issues, suggestions, errata |
-| `hackathon/` | Hackathon project materials |
-| `submissions/` | Assignment submissions |
-| `templates/` | Reusable note templates |
-
-## Core Files
-
-| File | Purpose |
-|------|---------|
-| `profile.md` | Learner profile & goals |
-| `learning-plan.md` | Personal learning roadmap |
+| `notes/` | Daily learning notes (`notes/daily/`), profile, plan, tasks |
+| `prompts/` | Reusable prompt templates & check-in drafts |
+| `demos/` | Experiments, hackathon projects, submissions |
+| `logs/` | Handbook feedback, learning reflections |
+| `resources.md` | Curated links, tools, references |
